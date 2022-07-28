@@ -1,0 +1,20 @@
+
+.odds {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    background-color: rgba(250, 7, 100, 0.596);
+}
+
+#dos {
+    color: blue;
+    font-size: 36px;
+}
+
+.tres {
+    font-size: 24px;
+}
+
+#cuatro {
+    background-color: aquamarine;
+    font-size: 24px;
+    font-weight: bold;
+}
